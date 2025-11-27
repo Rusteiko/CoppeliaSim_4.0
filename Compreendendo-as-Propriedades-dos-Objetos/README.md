@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Propriedade dos Objetos.png" width="85%">
+</p>
+
 # 🧪 Simulação – Propriedades dos Objetos no CoppeliaSim  
 ### 🎓 Aula 2 – Robótica Industrial e Cinemática
 
