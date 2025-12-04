@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="TelasMOveRot.png" width="85%">
+</p>
+
 # ============================================
 # Script: gerar_readme.py
 # Objetivo: Gerar automaticamente o arquivo README.md
