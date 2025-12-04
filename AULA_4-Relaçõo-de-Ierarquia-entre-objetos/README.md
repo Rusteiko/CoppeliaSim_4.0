@@ -1,8 +1,8 @@
-# ============================================================
+# ========================================
 # Script: gerar_readme.py
 # Objetivo: Gerar automaticamente o arquivo README.md
 # Conteúdo baseado nas Aulas 4 e 4.1: Hierarquia no CoppeliaSim
-# ============================================================
+# ========================================
 
 readme = """
 # 🤖 Aula 4 e 4.1 – Relação de Hierarquia entre Objetos no CoppeliaSim
