@@ -66,8 +66,23 @@ Exemplos:
 ```
 /
 ├── README.md
-├── Propriedades dos Objetos
+├── AULA 2 Propriedades dos Objetos
 │     └── Aula_02_Propriedades.ttt
+│     └── Imagem
+├── AULA 3 Operação - Translação e Rotação
+│     └── Aula_03_Translação e Rotação.ttt
+│     └── Imagem
+├── AULA 4 Relação Hierárquica
+│     └── Aula_04_Relação Hierárquica.ttt
+│     └── Imagem
+├── AULA 5 Articulação
+│     └── Aula_05_Articulação.ttt
+│     └── Imagem
+├── AULA 6 Sensores
+│     └── Aula_06_Sensores.ttt
+│     └── Imagem
+├── AULA 7 Programação_Part 1
+│     └── Aula_07_Programação_Part 1.ttt
 │     └── Imagem
 
 ```
