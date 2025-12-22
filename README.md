@@ -84,6 +84,7 @@ Exemplos:
 ├── AULA 7 Programação_Part 1
 │     └── Aula_07_Programação_Part 1.ttt
 │     └── Imagem
+│     └── Vídeo - simulação
 
 ```
 
