@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Imagine/CoppeliaSim.png" width="85%">
+  <img src="Imagen/CoppeliaSim.png" width="85%">
 </p>
 
 # CoppeliaSim_4.0
