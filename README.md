@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="CoppeliaSim.png" width="85%">
+</p>
+
 # CoppeliaSim_4.0
 
 # 🤖 Simulações no CoppeliaSim – Robótica Industrial  
